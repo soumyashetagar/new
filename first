@@ -1,0 +1,5 @@
+git commit
+git add [file]
+git status
+git diff
+git config --global user.name= "[name]"
